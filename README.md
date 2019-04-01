@@ -187,5 +187,5 @@ the out put of the suffix_search function would be a negative integer if the pat
 ```
 
 
-The output of the search function will be added to the values file and eventually used to write the information to the file.
+The output of the search function will be added to the values arraylist and eventually used to write the information to the file.
 	
