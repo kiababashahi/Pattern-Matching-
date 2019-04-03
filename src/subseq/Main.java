@@ -5,8 +5,8 @@ import java.util.ArrayList;
 public class Main {
 
 	public static void main(String[] args) {
-		String text_path = "C:\\Users\\Bro_Kia\\eclipse-workspace\\subseq\\test cases\\test case 2\\string.txt";
-		String PatternPath = "C:\\Users\\Bro_Kia\\eclipse-workspace\\subseq\\test cases\\test case 2\\patterns.txt";
+		String text_path = "C:\\Users\\.....txt";
+		String PatternPath = "C:\\Users\\...patterns.txt";
 		String sentence;
 		ArrayList<String> pattern;
 		ReadInput Reader = new ReadInput(text_path, PatternPath);
